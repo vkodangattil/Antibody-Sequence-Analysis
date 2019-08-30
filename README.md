@@ -1,1 +1,1 @@
-# DNA-analysis
+The goal of this project was to develop a tool in order to help newer users of antibody sequences. This project first takes a user input form that takes a sequencece and defintion for said sequence. The program then writes this sequence to a docx file and highlights the CDR framework(varies depending on defintion). Finally, it also highlights potential liabilities in the sequence that may cause an error. 
